@@ -24,6 +24,22 @@ function showdata() {
     result.style.backgroundColor = "red";
     guessStyle();
     setGameOver();
+  } else if (Math.abs(randomNum - guess.value) <= 5) {
+    if (guess.value > randomNum) {
+      message.innerHTML = "You are almost there! think little less!";
+      messageStyle();
+    } else {
+      message.innerHTML = "You are almost there! think little high!";
+      messageStyle();
+    }
+  } else if (Math.abs(randomNum - guess.value) <= 10) {
+    if (guess.value > randomNum) {
+      message.innerHTML = "You are Close! think a bit less!";
+      messageStyle();
+    } else {
+      message.innerHTML = "You are Close! think a bit high!";
+      messageStyle();
+    }
   } else if (guess.value > randomNum) {
     message.innerHTML = "Too High! Try Again.";
     messageStyle();
