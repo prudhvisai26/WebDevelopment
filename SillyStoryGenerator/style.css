@@ -1,0 +1,41 @@
+body {
+  align-items: center;
+  margin-top: 200px;
+  margin-left: 500px;
+  background-color: lightgray;
+}
+h1 {
+  font-style: italic;
+  color: darkblue;
+  font-size: 40px;
+}
+div {
+  padding-bottom: 20px;
+}
+label {
+  font-weight: bold;
+  font-size: 17px;
+}
+input[type="text"] {
+  padding: 5px;
+  width: 250px;
+  border-radius: 5px;
+  border: 1.7px solid lightblue;
+  outline: none;
+}
+button {
+  padding: 7px;
+  border-radius: 5px;
+  outline: none;
+  border: 1.7px solid lightblue;
+  font-size: 15px;
+  cursor: pointer;
+}
+p {
+  background: #ffc125;
+  color: #5e2612;
+  padding: 10px;
+  visibility: hidden;
+  width: 400px;
+  font-size: 17px;
+}
