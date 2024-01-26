@@ -1,10 +1,10 @@
 1.Digital Clock -- Completed
 2.Todo App --Not done
 3.Expense Tracker --Not done
-4.Vowel Counter --Not done
+4.Vowel Counter --Completed
 5.Pig Latin Generator--Not done
 6.Weight Tracker App --Not done
 7.Rock,Paper,Scissors Game--Not done
 8.Note Taking App --Not done
 9.Calculator App--Not done
-10.Quotes Generator-- Not done
+10.Quotes Generator-- Completed
