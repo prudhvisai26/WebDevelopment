@@ -1,5 +1,5 @@
 1.Digital Clock -- Completed
-2.Todo App --Not done
+2.Todo App --Completed
 3.Expense Tracker --Not done
 4.Vowel Counter --Completed
 5.Pig Latin Generator--Not done
